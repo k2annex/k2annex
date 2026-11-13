@@ -15,9 +15,9 @@ Over the past five years I've set up punchout for over a dozen enterprise custom
 
 | | |
 |---|---|
-| **Punchout Headquarters** | Buyer-side cXML / OCI tester · [live](https://punchout-tool-suite.vercel.app) |
-| **Punchout Procure** | Mock Coupa, Ariba, and S/4HANA buyer · [live](https://punchout-procure.vercel.app) |
-| **Punchout Supply** | Magento 2 punchout and P2P extension · [live](https://129-80-49-224.sslip.io) |
+| **Punchout Headquarters** | Buyer-side cXML / OCI tester · [live](https://punchouthq.com) |
+| **Punchout Procure** | Mock Coupa, Ariba, and S/4HANA buyer · [live](https://procure.punchouthq.com) |
+| **Punchout Supply** | Magento 2 punchout and P2P extension · [live](https://supply.punchouthq.com) |
 
 [![Punchout Procure: a Coupa PO from sent to paid](https://raw.githubusercontent.com/k2annex/punchout-suite-showcase/main/images/procure-order-complete.png)](https://github.com/k2annex/punchout-suite-showcase)
 
