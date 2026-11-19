@@ -1,9 +1,9 @@
 ### Hi, I'm Nathan 👋
 
-I build **supplier-side procurement integrations**: the systems that let a supplier sell to enterprise customers who buy through Coupa, SAP Ariba, Oracle, or Zycus.
+I build **supplier-side procurement integrations**: the systems that let a supplier sell to enterprise customers through any procurement system, over cXML, SAP OCI, or EDI. I've delivered them on Coupa, SAP Ariba, SAP S/4HANA, Oracle, and Zycus.
 
 - **Punchout:** cXML and SAP OCI, hosted and Level 2 catalogs
-- **Procure-to-pay:** purchase orders, confirmations, ship notices, invoices, and payment
+- **Procure-to-pay:** purchase orders, confirmations, ship notices, invoices, credit memos, and payment
 - **NetSuite:** SuiteScript (RESTlets, map/reduce, user events), administration, order intake
 - **Integrations and data:** REST APIs, EDI, SFTP, AWS, product information systems
 
@@ -11,19 +11,20 @@ Over the past five years I've set up punchout for over a dozen enterprise custom
 
 ### Featured work
 
-**[Punchout Suite](https://github.com/k2annex/punchout-suite-showcase)**: three tools for testing punchout and procure-to-pay end to end.
+**[Punchout HQ](https://github.com/k2annex/punchout-suite-showcase)**: a punchout platform for any store and any procurement system, with free testing tools, two full sandboxes, and a Readiness Check service. [punchouthq.com](https://punchouthq.com)
 
 | | |
 |---|---|
-| **Punchout Headquarters** | Buyer-side cXML / OCI tester · [live](https://punchouthq.com) |
-| **Punchout Procure** | Mock Coupa, Ariba, and S/4HANA buyer · [live](https://procure.punchouthq.com) |
-| **Punchout Supply** | Magento 2 punchout and P2P extension · [live](https://supply.punchouthq.com) |
+| **Free Tools** | cXML PunchOut, OCI RoundTrip, and cXML Order testers, no sign-up · [tools.punchouthq.com](https://tools.punchouthq.com) |
+| **Punchout Procure** | Mock buyer procurement system: bring your own store and run procure-to-pay end to end · [overview](https://punchouthq.com/procure) |
+| **Punchout Supply** | Mage-OS / Magento 2 store with a punchout and procure-to-pay extension · [overview](https://punchouthq.com/supply) |
+| **Readiness Check** | Fixed-price test of a supplier's store against their buyer's system, with a pass/fail report · [book one](https://punchouthq.com/readiness-check) |
 
-[![Punchout Procure: a Coupa PO from sent to paid](https://raw.githubusercontent.com/k2annex/punchout-suite-showcase/main/images/procure-order-complete.png)](https://github.com/k2annex/punchout-suite-showcase)
+[![Punchout HQ: punchout for any store, any procurement system](https://raw.githubusercontent.com/k2annex/punchout-suite-showcase/main/images/hq-landing.png)](https://github.com/k2annex/punchout-suite-showcase)
 
 **[Free Outdoor Gyms](https://freeoutdoorgyms.com)**: a nationwide directory of free outdoor gyms built from OpenStreetMap data and refreshed weekly. Next.js, MapLibre.
 
 ### Work with me
 
-Available for consulting: punchout setup and troubleshooting, Coupa / Ariba supplier onboarding, and NetSuite order intake.
-Find me on Upwork, or open an issue here to get in touch.
+Available for consulting: punchout setup and troubleshooting on any procurement system, supplier onboarding, cXML / OCI / EDI integrations, and NetSuite order intake.
+[Book a Readiness Check](https://punchouthq.com/readiness-check), find me on Upwork, or email support@punchouthq.com.
